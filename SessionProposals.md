@@ -1,4 +1,4 @@
-##6 sessions to be proposed
+## 6 sessions to be proposed
 
 [*Flying week*](https://docs.google.com/document/d/1yq7x7A8eE8GlaNamyhBSFawvZolz0M0oo8xnHHeynAc/edit)
 
@@ -11,7 +11,7 @@
 *sUAS/RPAS/Emerging tech in Agriculture*
 
 
-###Proposed Dates:
+### Proposed Dates:
 - Flying week: 29Oct-2Nov
 - IDW: 5-8Nov
 - Data day: 9 Novb
