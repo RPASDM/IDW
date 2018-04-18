@@ -26,7 +26,7 @@
         Who else ???
 
 ### Venue
-- Drafted a letter of approach [here]
+- Drafted a letter of approach [here](https://github.com/RPASDM/IDW/blob/master/docs/VenueApplicationLetter.pdf) to be used with flyer [here](https://github.com/RPASDM/IDW/blob/master/docs/IDWFundingFlyer_RPAS.pdf)
 
 ### Datathon day
 [This](https://github.com/ThomasRoca/Data_Training_Hanoi) 3 day workshop on making Ag data more useful was clearly Microsoft sponsored so heavy on Azure use but I think could be a useful input in thinking about our Datathon day
