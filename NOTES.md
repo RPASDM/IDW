@@ -2,14 +2,14 @@
 
 ##19/04/18  - Meeting postponed to Monday 23 April
 ### Updates:
-    -- Tschiamo - there's a AFIDS call we might go after?// About 
+    -- Tschiamo - there's a AFIDS call we might go after?// 
+        - https://africapss.org/contact/
         - 4 day workshop
         - multi stream? - Earth Observation, Astronomy, Meterology
     -- Tschiamo from IDW committee and various contacts
         -- Radiant Earth?
         -- TACC?
     -- Jane: 
-        - AGU/RDA still negotiating funding, nothing confirmed, sounds like they're looking at participant funding particularly as far as we might be concerned        
         - Could we pitch these to Happy to see if cloud computing woulld sponsor as a hackathon using their ecosystem?
 
 ### Todos
