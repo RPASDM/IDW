@@ -1,6 +1,6 @@
 # Notes from meetings planning drone IDW events
 
-##19/04/18
+##19/04/18  - Meeting postponed to Monday 23 April
 ### Updates:
     -- Tschiamo - there's a AFIDS call we might go after?// About 
         - 4 day workshop
