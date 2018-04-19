@@ -13,17 +13,17 @@
 ### Todos
 - Keynotes:???  We have 5 nights at least, 6 with 1st evening (Sunday)Monday-Friday.  
     -- Possible topics
-        -- Agriculture
-        -- Climate
-        -- Conservation
-        -- Technology
-        -- Open Science/Data
-        -- Astronomy? (SKA and BigData are big...night flying possibly... - Cynthia to suggest someone?) 
-     -- Possible people?
-        Tulinda Larsen  (CEO Agricultural Aerial Remote Sensing Standards Council)
-        Maria Esteva?
-        <Keep a space for a sponsor> 
-        Who else ???
+       - Agriculture
+       - Climate
+       - Conservation
+       - Technology
+       - Open Science/Data
+       - Astronomy? (SKA and BigData are big...night flying possibly... - Cynthia to suggest someone?) 
+     - Possible people?
+        * Tulinda Larsen  (CEO Agricultural Aerial Remote Sensing Standards Council)
+        * Maria Esteva -- Good for the datathon
+        * <Keep a space for a sponsor> 
+        * Who else ???
 
 ### Venue
 - Drafted a letter of approach [here](https://github.com/RPASDM/IDW/blob/master/docs/VenueApplicationLetter.pdf) to be used with flyer [here](https://github.com/RPASDM/IDW/blob/master/docs/IDWFundingFlyer_RPAS.pdf)
