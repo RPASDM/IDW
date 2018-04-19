@@ -2,7 +2,9 @@
 
 ##19/04/18
 ### Updates:
-    -- Lillian on legalities
+    -- Tschiamo - there's a AFIDS call we might go after?// About 
+        - 4 day workshop
+        - multi stream? - Earth Observation, Astronomy, Meterology
     -- Tschiamo from IDW committee and various contacts
         -- Radiant Earth?
         -- TACC?
@@ -13,16 +15,16 @@
 ### Todos
 - Keynotes:???  We have 5 nights at least, 6 with 1st evening (Sunday)Monday-Friday.  
     -- Possible topics
-       - Agriculture
-       - Climate
-       - Conservation
-       - Technology
-       - Open Science/Data
-       - Astronomy? (SKA and BigData are big...night flying possibly... - Cynthia to suggest someone?) 
+       * Agriculture
+       * Climate
+       * Conservation
+       * Technology
+       * Open Science/Data
+       * Astronomy? (SKA and BigData are big...night flying possibly... - Cynthia to suggest someone?) 
      - Possible people?
         * Tulinda Larsen  (CEO Agricultural Aerial Remote Sensing Standards Council)
         * Maria Esteva -- Good for the datathon
-        * <Keep a space for a sponsor> 
+        * Keep a space for a sponsor 
         * Who else ???
 
 ### Venue
