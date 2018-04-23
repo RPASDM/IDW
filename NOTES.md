@@ -1,6 +1,10 @@
 # Notes from meetings planning drone IDW events
+## 23/04/18
+ - Visualisation/datathon: Mary Jane wants a climate modeling data management
+    -- Cyprus person a possibility: http://vislab.cyi.ac.cy/
+ - Remote connectivity  - how much of a problem is that going to be now?
 
-##19/04/18  - Meeting postponed to Monday 23 April
+## 19/04/18  - Meeting postponed to Monday 23 April
 ### Updates:
     -- Tschiamo - there's a AFIDS call we might go after?// 
         - https://africapss.org/contact/
@@ -25,6 +29,7 @@
         * Tulinda Larsen  (CEO Agricultural Aerial Remote Sensing Standards Council)
         * Maria Esteva -- Good for the datathon
         * Keep a space for a sponsor 
+        * WeRobotics Tanzanian - on code of conduct/data ethics with drones
         * Who else ???
 
 ### Venue
